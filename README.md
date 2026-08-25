@@ -1,32 +1,110 @@
-## 👋 Olá, eu sou o Gustavo!
-
-Sou um desenvolvedor apaixonado por criar soluções inovadoras usando tecnologias modernas. Tenho experiência em front-end, back-end, e estou sempre buscando novos desafios e oportunidades para expandir minhas habilidades.
-
-- 🌱 Atualmente aprendendo: **Flutter e React**
-- 💼 Aberto a oportunidades de freelance e projetos colaborativos
-- 🎯 Objetivo: Continuar evoluindo como desenvolvedor full-stack
-
-</br>
-
-<div align="center" >
-  <img src="https://skillicons.dev/icons?i=react,js,html,css,vscode,github,git,figma,typescript,flutter,python,styledcomponents" />
-</div>
-
-## 📊 Minhas estatísticas no GitHub
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Gustavocurty&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavocurty&layout=compact&langs_count=7&theme=dark"/>
+
+# 👋 Olá, eu sou o Gustavo Curty
+
+### Desenvolvedor de Software | Full Stack
+
+Construindo aplicações, explorando novas tecnologias e transformando problemas reais em soluções através de código.
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/gustavo-curty-b394b7255/)
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:gutocurty18@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/gust_curty)
+
 </div>
 
-## 📫 Como me encontrar
+---
 
-Sinta-se à vontade para me contatar pelas seguintes plataformas:
+## 👨‍💻 Sobre mim
+
+Sou desenvolvedor de software com interesse em **desenvolvimento web, backend, APIs, automação e arquitetura de sistemas**.
+
+Tenho experiência desenvolvendo e mantendo aplicações, trabalhando com integrações, bancos de dados, containers e projetos que envolvem desde aplicações web até automação e inteligência artificial.
+
+Atualmente busco evoluir cada vez mais como desenvolvedor **Full Stack**, aprofundando meus conhecimentos em arquitetura, boas práticas e construção de aplicações escaláveis.
+
+```javascript
+const gustavo = {
+    role: "Software Developer",
+    focus: ["Full Stack", "Backend", "Web Development"],
+    learning: ["Software Architecture", "React", "TypeScript"],
+    interests: ["APIs", "Automation", "AI", "Cloud"],
+};
+```
+
+---
+
+## 🚀 Tecnologias
 
 <div align="center">
-  <a href="https://www.instagram.com/gust_curty" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <a href="mailto:gutocurty18@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gustavo-curty-b394b7255/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+### Front-end
+
+<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,styledcomponents" />
+
+### Back-end & Dados
+
+<img src="https://skillicons.dev/icons?i=nodejs,python,postgres,firebase" />
+
+### Mobile
+
+<img src="https://skillicons.dev/icons?i=flutter,dart" />
+
+### Ferramentas & DevOps
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,figma" />
+
 </div>
 
+---
+
+## 🧩 O que tenho explorado
+
+* 🌐 Desenvolvimento de aplicações **Full Stack**
+* ⚙️ Construção e integração de **APIs REST**
+* 🗄️ Bancos de dados relacionais e NoSQL
+* 🐳 Desenvolvimento e ambientes com **Docker**
+* 🤖 Inteligência Artificial, LLMs e aplicações com **RAG**
+* 📱 Desenvolvimento mobile com **Flutter**
+* 🔧 Automação, integração de sistemas e resolução de problemas
+
+---
+
+## 📊 GitHub
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gustavocurty&theme=github_dark" />
+
+<br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gustavocurty&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gustavocurty&theme=github_dark" />
+
+</div>
+
+---
+
+## 🎯 Atualmente
+
+```text
+💻 Desenvolvendo aplicações e integrações
+📚 Aprimorando conhecimentos em Full Stack e arquitetura
+🔎 Explorando automação, infraestrutura e inteligência artificial
+🚀 Buscando evoluir através de projetos reais e novos desafios
+```
+
+---
+
+<div align="center">
+
+### Let's build something. 🚀
+---
+
+<img height="600em" alt="6bd21d6d541c056c5ebc23e6cbfd05eb" src="https://github.com/user-attachments/assets/f6a0b71d-31e1-4d29-b616-6a217c96e9c0" />
 
 
+<sub>Obrigado por visitar meu perfil.</sub>
+
+</div>

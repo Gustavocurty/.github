@@ -39,21 +39,7 @@ const gustavo = {
 
 <div align="center">
 
-### Front-end
-
-<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,styledcomponents" />
-
-### Back-end & Dados
-
-<img src="https://skillicons.dev/icons?i=nodejs,python,postgres,firebase" />
-
-### Mobile
-
-<img src="https://skillicons.dev/icons?i=flutter,dart" />
-
-### Ferramentas & DevOps
-
-<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,figma" />
+<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,styledcomponents,nodejs,python,postgres,firebase,flutter,dart,docker,git,wordpress,datagrip" />
 
 </div>
 
@@ -83,17 +69,6 @@ const gustavo = {
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gustavocurty&theme=github_dark" />
 
 </div>
-
----
-
-## 🎯 Atualmente
-
-```text
-💻 Desenvolvendo aplicações e integrações
-📚 Aprimorando conhecimentos em Full Stack e arquitetura
-🔎 Explorando automação, infraestrutura e inteligência artificial
-🚀 Buscando evoluir através de projetos reais e novos desafios
-```
 
 ---
 

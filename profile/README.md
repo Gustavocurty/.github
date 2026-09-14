@@ -2,9 +2,9 @@
 
 # 👋 Olá, eu sou o Gustavo Curty
 
-### Desenvolvedor de Software | Full Stack
+### 💻 Software Developer | Automation • Telecom Systems • Full Stack
 
-Construindo aplicações, explorando novas tecnologias e transformando problemas reais em soluções através de código.
+Desenvolvendo software, integrando sistemas e transformando problemas reais em soluções através de código.
 
 <br>
 
@@ -18,18 +18,21 @@ Construindo aplicações, explorando novas tecnologias e transformando problemas
 
 ## 👨‍💻 Sobre mim
 
-Sou desenvolvedor de software com interesse em **desenvolvimento web, backend, APIs, automação e arquitetura de sistemas**.
+Sou **Desenvolvedor de Software**, com experiência em desenvolvimento Full Stack, backend, automação, integração de sistemas e soluções voltadas para telecomunicações.
 
-Tenho experiência desenvolvendo e mantendo aplicações, trabalhando com integrações, bancos de dados, containers e projetos que envolvem desde aplicações web até automação e inteligência artificial.
+Tenho experiência com desenvolvimento de aplicações, APIs, bancos de dados, containers e integração entre diferentes sistemas, buscando sempre entender o problema além do código e construir soluções funcionais, organizadas e escaláveis.
 
-Atualmente busco evoluir cada vez mais como desenvolvedor **Full Stack**, aprofundando meus conhecimentos em arquitetura, boas práticas e construção de aplicações escaláveis.
+Tenho interesse especial em **backend, arquitetura de software, automação, integrações e sistemas escaláveis**, além de continuar aprofundando meus conhecimentos em novas tecnologias.
 
 ```javascript
 const gustavo = {
     role: "Software Developer",
-    focus: ["Full Stack", "Backend", "Web Development"],
-    learning: ["Software Architecture", "React", "TypeScript"],
-    interests: ["APIs", "Automation", "AI", "Cloud"],
+    areas: [
+        "Software Engineering", "Backend & Full Stack", "Automation"
+    ],
+    learning: [
+        "Software Architecture", "LLMs", "AI Agents", "RAG"
+    ]
 };
 ```
 
@@ -39,21 +42,48 @@ const gustavo = {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,styledcomponents,nodejs,python,postgres,firebase,flutter,dart,docker,git,wordpress,datagrip" />
+<img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,python,postgres,firebase,flutter,dart,docker,git,github,html,css,wordpress" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+**Backend & Web** • Node.js • TypeScript • JavaScript • Python • React
+**Mobile** • Flutter • Dart
+**Databases** • PostgreSQL • Firebase
+**Infrastructure** • Docker • Git • GitHub
+**Telecom** • TR-069 • TR-181 • CPE Management • Device Homologation
 
 </div>
 
 ---
 
-## 🧩 O que tenho explorado
+## 🧩 Áreas em que atuo
 
-* 🌐 Desenvolvimento de aplicações **Full Stack**
-* ⚙️ Construção e integração de **APIs REST**
-* 🗄️ Bancos de dados relacionais e NoSQL
-* 🐳 Desenvolvimento e ambientes com **Docker**
-* 🤖 Inteligência Artificial, LLMs e aplicações com **RAG**
-* 📱 Desenvolvimento mobile com **Flutter**
-* 🔧 Automação, integração de sistemas e resolução de problemas
+* 💻 Desenvolvimento de aplicações **Full Stack e Backend**
+* ⚙️ Desenvolvimento e integração de **APIs e sistemas**
+* 🔄 **Automação de processos** e integração entre plataformas
+* 📡 Sistemas de telecomunicações e gerenciamento remoto de **CPEs**
+* 🌐 Provisionamento e gerenciamento utilizando **TR-069 e TR-181**
+* 🔎 Investigação, troubleshooting e análise de falhas
+* 🗄️ Modelagem e integração com bancos de dados
+* 🐳 Ambientes de desenvolvimento e serviços utilizando **Docker**
+* 📱 Desenvolvimento de aplicações com **Flutter**
+
+---
+
+## 🧠 Atualmente estudando e explorando
+
+* 🤖 Inteligência Artificial aplicada ao desenvolvimento de software
+* 🧠 Large Language Models — **LLMs**
+* 🔗 **RAG — Retrieval-Augmented Generation**
+* 🤖 Agentes de Inteligência Artificial
+* 🔢 Embeddings e bancos de dados vetoriais
+* 🏗️ Arquitetura de Software
+* ⚙️ Backend Engineering
+* 🌐 Sistemas distribuídos e aplicações escaláveis
 
 ---
 
@@ -74,11 +104,9 @@ const gustavo = {
 
 <div align="center">
 
-### Let's build something. 🚀
----
+### Building software. Solving problems. Learning constantly. 🚀
 
-<img height="600em" alt="6bd21d6d541c056c5ebc23e6cbfd05eb" src="https://github.com/user-attachments/assets/f6a0b71d-31e1-4d29-b616-6a217c96e9c0" />
-
+<img height="600em" alt="Profile artwork" src="https://github.com/user-attachments/assets/f6a0b71d-31e1-4d29-b616-6a217c96e9c0" />
 
 <sub>Obrigado por visitar meu perfil.</sub>
 
